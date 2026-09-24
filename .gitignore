@@ -1,0 +1,20 @@
+# 本机配置 —— 含机构域名，切勿提交
+cnki-portal.txt
+*.local.json
+
+# 检索结果 / 题录落盘
+refs*.json
+d.json
+*.pdf
+*.caj
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
